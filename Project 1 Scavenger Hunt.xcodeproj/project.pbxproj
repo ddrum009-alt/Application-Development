@@ -1,0 +1,578 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 77;
+	objects = {
+
+/* Begin PBXContainerItemProxy section */
+		C3F355EE305789530048A4D4 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = C3F355D6305789520048A4D4 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = C3F355DD305789520048A4D4;
+			remoteInfo = "Project 1 Scavenger Hunt";
+		};
+		C3F355F8305789530048A4D4 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = C3F355D6305789520048A4D4 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = C3F355DD305789520048A4D4;
+			remoteInfo = "Project 1 Scavenger Hunt";
+		};
+/* End PBXContainerItemProxy section */
+
+/* Begin PBXFileReference section */
+		C3F355DE305789520048A4D4 /* Project 1 Scavenger Hunt.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Project 1 Scavenger Hunt.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		C3F355ED305789530048A4D4 /* Project 1 Scavenger HuntTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Project 1 Scavenger HuntTests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
+		C3F355F7305789530048A4D4 /* Project 1 Scavenger HuntUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Project 1 Scavenger HuntUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
+/* End PBXFileReference section */
+
+/* Begin PBXFileSystemSynchronizedRootGroup section */
+		C3F355E0305789520048A4D4 /* Project 1 Scavenger Hunt */ = {
+			isa = PBXFileSystemSynchronizedRootGroup;
+			name = "Project 1 Scavenger Hunt";
+			path = "/Users/user301984/Desktop/Project 1 Scavenger Hunt/Project 1 Scavenger Hunt";
+			sourceTree = "<absolute>";
+		};
+		C3F355F0305789530048A4D4 /* Project 1 Scavenger HuntTests */ = {
+			isa = PBXFileSystemSynchronizedRootGroup;
+			name = "Project 1 Scavenger HuntTests";
+			path = "/Users/user301984/Desktop/Project 1 Scavenger Hunt/Project 1 Scavenger HuntTests";
+			sourceTree = "<absolute>";
+		};
+		C3F355FA305789530048A4D4 /* Project 1 Scavenger HuntUITests */ = {
+			isa = PBXFileSystemSynchronizedRootGroup;
+			name = "Project 1 Scavenger HuntUITests";
+			path = "/Users/user301984/Desktop/Project 1 Scavenger Hunt/Project 1 Scavenger HuntUITests";
+			sourceTree = "<absolute>";
+		};
+/* End PBXFileSystemSynchronizedRootGroup section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		C3F355DB305789520048A4D4 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		C3F355EA305789530048A4D4 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		C3F355F4305789530048A4D4 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		C3F355D5305789520048A4D4 = {
+			isa = PBXGroup;
+			children = (
+				C3F355E0305789520048A4D4 /* Project 1 Scavenger Hunt */,
+				C3F355F0305789530048A4D4 /* Project 1 Scavenger HuntTests */,
+				C3F355FA305789530048A4D4 /* Project 1 Scavenger HuntUITests */,
+				C3F355DF305789520048A4D4 /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		C3F355DF305789520048A4D4 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				C3F355DE305789520048A4D4 /* Project 1 Scavenger Hunt.app */,
+				C3F355ED305789530048A4D4 /* Project 1 Scavenger HuntTests.xctest */,
+				C3F355F7305789530048A4D4 /* Project 1 Scavenger HuntUITests.xctest */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		C3F355DD305789520048A4D4 /* Project 1 Scavenger Hunt */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = C3F35601305789530048A4D4 /* Build configuration list for PBXNativeTarget "Project 1 Scavenger Hunt" */;
+			buildPhases = (
+				C3F355DA305789520048A4D4 /* Sources */,
+				C3F355DB305789520048A4D4 /* Frameworks */,
+				C3F355DC305789520048A4D4 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			fileSystemSynchronizedGroups = (
+				C3F355E0305789520048A4D4 /* Project 1 Scavenger Hunt */,
+			);
+			name = "Project 1 Scavenger Hunt";
+			packageProductDependencies = (
+			);
+			productName = "Project 1 Scavenger Hunt";
+			productReference = C3F355DE305789520048A4D4 /* Project 1 Scavenger Hunt.app */;
+			productType = "com.apple.product-type.application";
+		};
+		C3F355EC305789530048A4D4 /* Project 1 Scavenger HuntTests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = C3F35604305789530048A4D4 /* Build configuration list for PBXNativeTarget "Project 1 Scavenger HuntTests" */;
+			buildPhases = (
+				C3F355E9305789530048A4D4 /* Sources */,
+				C3F355EA305789530048A4D4 /* Frameworks */,
+				C3F355EB305789530048A4D4 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				C3F355EF305789530048A4D4 /* PBXTargetDependency */,
+			);
+			fileSystemSynchronizedGroups = (
+				C3F355F0305789530048A4D4 /* Project 1 Scavenger HuntTests */,
+			);
+			name = "Project 1 Scavenger HuntTests";
+			packageProductDependencies = (
+			);
+			productName = "Project 1 Scavenger HuntTests";
+			productReference = C3F355ED305789530048A4D4 /* Project 1 Scavenger HuntTests.xctest */;
+			productType = "com.apple.product-type.bundle.unit-test";
+		};
+		C3F355F6305789530048A4D4 /* Project 1 Scavenger HuntUITests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = C3F35607305789530048A4D4 /* Build configuration list for PBXNativeTarget "Project 1 Scavenger HuntUITests" */;
+			buildPhases = (
+				C3F355F3305789530048A4D4 /* Sources */,
+				C3F355F4305789530048A4D4 /* Frameworks */,
+				C3F355F5305789530048A4D4 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				C3F355F9305789530048A4D4 /* PBXTargetDependency */,
+			);
+			fileSystemSynchronizedGroups = (
+				C3F355FA305789530048A4D4 /* Project 1 Scavenger HuntUITests */,
+			);
+			name = "Project 1 Scavenger HuntUITests";
+			packageProductDependencies = (
+			);
+			productName = "Project 1 Scavenger HuntUITests";
+			productReference = C3F355F7305789530048A4D4 /* Project 1 Scavenger HuntUITests.xctest */;
+			productType = "com.apple.product-type.bundle.ui-testing";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		C3F355D6305789520048A4D4 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				BuildIndependentTargetsInParallel = 1;
+				LastSwiftUpdateCheck = 2660;
+				LastUpgradeCheck = 2660;
+				TargetAttributes = {
+					C3F355DD305789520048A4D4 = {
+						CreatedOnToolsVersion = 26.6;
+					};
+					C3F355EC305789530048A4D4 = {
+						CreatedOnToolsVersion = 26.6;
+						TestTargetID = C3F355DD305789520048A4D4;
+					};
+					C3F355F6305789530048A4D4 = {
+						CreatedOnToolsVersion = 26.6;
+						TestTargetID = C3F355DD305789520048A4D4;
+					};
+				};
+			};
+			buildConfigurationList = C3F355D9305789520048A4D4 /* Build configuration list for PBXProject "Project 1 Scavenger Hunt" */;
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = C3F355D5305789520048A4D4;
+			minimizedProjectReferenceProxies = 1;
+			preferredProjectObjectVersion = 77;
+			productRefGroup = C3F355DF305789520048A4D4 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				C3F355DD305789520048A4D4 /* Project 1 Scavenger Hunt */,
+				C3F355EC305789530048A4D4 /* Project 1 Scavenger HuntTests */,
+				C3F355F6305789530048A4D4 /* Project 1 Scavenger HuntUITests */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		C3F355DC305789520048A4D4 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		C3F355EB305789530048A4D4 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		C3F355F5305789530048A4D4 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		C3F355DA305789520048A4D4 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		C3F355E9305789530048A4D4 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		C3F355F3305789530048A4D4 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXTargetDependency section */
+		C3F355EF305789530048A4D4 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = C3F355DD305789520048A4D4 /* Project 1 Scavenger Hunt */;
+			targetProxy = C3F355EE305789530048A4D4 /* PBXContainerItemProxy */;
+		};
+		C3F355F9305789530048A4D4 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = C3F355DD305789520048A4D4 /* Project 1 Scavenger Hunt */;
+			targetProxy = C3F355F8305789530048A4D4 /* PBXContainerItemProxy */;
+		};
+/* End PBXTargetDependency section */
+
+/* Begin XCBuildConfiguration section */
+		C3F355FF305789530048A4D4 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ASSETCATALOG_COMPILER_GENERATE_SWIFT_ASSET_SYMBOL_EXTENSIONS = YES;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				ENABLE_USER_SCRIPT_SANDBOXING = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu17;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 26.5;
+				LOCALIZATION_PREFERS_STRING_CATALOGS = YES;
+				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
+				MTL_FAST_MATH = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "DEBUG $(inherited)";
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+			};
+			name = Debug;
+		};
+		C3F35600305789530048A4D4 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ASSETCATALOG_COMPILER_GENERATE_SWIFT_ASSET_SYMBOL_EXTENSIONS = YES;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_USER_SCRIPT_SANDBOXING = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu17;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 26.5;
+				LOCALIZATION_PREFERS_STRING_CATALOGS = YES;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				MTL_FAST_MATH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_COMPILATION_MODE = wholemodule;
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		C3F35602305789530048A4D4 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				ENABLE_PREVIEWS = YES;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
+				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
+				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "ddrum009.fiu.edu.Project-1-Scavenger-Hunt";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				STRING_CATALOG_GENERATE_SYMBOLS = YES;
+				SWIFT_APPROACHABLE_CONCURRENCY = YES;
+				SWIFT_DEFAULT_ACTOR_ISOLATION = MainActor;
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_UPCOMING_FEATURE_MEMBER_IMPORT_VISIBILITY = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+		C3F35603305789530048A4D4 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				ENABLE_PREVIEWS = YES;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
+				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
+				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "ddrum009.fiu.edu.Project-1-Scavenger-Hunt";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				STRING_CATALOG_GENERATE_SYMBOLS = YES;
+				SWIFT_APPROACHABLE_CONCURRENCY = YES;
+				SWIFT_DEFAULT_ACTOR_ISOLATION = MainActor;
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_UPCOMING_FEATURE_MEMBER_IMPORT_VISIBILITY = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Release;
+		};
+		C3F35605305789530048A4D4 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				GENERATE_INFOPLIST_FILE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 26.5;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "ddrum009.fiu.edu.Project-1-Scavenger-HuntTests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				STRING_CATALOG_GENERATE_SYMBOLS = NO;
+				SWIFT_APPROACHABLE_CONCURRENCY = YES;
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_UPCOMING_FEATURE_MEMBER_IMPORT_VISIBILITY = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/Project 1 Scavenger Hunt.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/Project 1 Scavenger Hunt";
+			};
+			name = Debug;
+		};
+		C3F35606305789530048A4D4 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				GENERATE_INFOPLIST_FILE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 26.5;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "ddrum009.fiu.edu.Project-1-Scavenger-HuntTests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				STRING_CATALOG_GENERATE_SYMBOLS = NO;
+				SWIFT_APPROACHABLE_CONCURRENCY = YES;
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_UPCOMING_FEATURE_MEMBER_IMPORT_VISIBILITY = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/Project 1 Scavenger Hunt.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/Project 1 Scavenger Hunt";
+			};
+			name = Release;
+		};
+		C3F35608305789530048A4D4 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				GENERATE_INFOPLIST_FILE = YES;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "ddrum009.fiu.edu.Project-1-Scavenger-HuntUITests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				STRING_CATALOG_GENERATE_SYMBOLS = NO;
+				SWIFT_APPROACHABLE_CONCURRENCY = YES;
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_UPCOMING_FEATURE_MEMBER_IMPORT_VISIBILITY = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_TARGET_NAME = "Project 1 Scavenger Hunt";
+			};
+			name = Debug;
+		};
+		C3F35609305789530048A4D4 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				GENERATE_INFOPLIST_FILE = YES;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "ddrum009.fiu.edu.Project-1-Scavenger-HuntUITests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				STRING_CATALOG_GENERATE_SYMBOLS = NO;
+				SWIFT_APPROACHABLE_CONCURRENCY = YES;
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_UPCOMING_FEATURE_MEMBER_IMPORT_VISIBILITY = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_TARGET_NAME = "Project 1 Scavenger Hunt";
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		C3F355D9305789520048A4D4 /* Build configuration list for PBXProject "Project 1 Scavenger Hunt" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				C3F355FF305789530048A4D4 /* Debug */,
+				C3F35600305789530048A4D4 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		C3F35601305789530048A4D4 /* Build configuration list for PBXNativeTarget "Project 1 Scavenger Hunt" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				C3F35602305789530048A4D4 /* Debug */,
+				C3F35603305789530048A4D4 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		C3F35604305789530048A4D4 /* Build configuration list for PBXNativeTarget "Project 1 Scavenger HuntTests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				C3F35605305789530048A4D4 /* Debug */,
+				C3F35606305789530048A4D4 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		C3F35607305789530048A4D4 /* Build configuration list for PBXNativeTarget "Project 1 Scavenger HuntUITests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				C3F35608305789530048A4D4 /* Debug */,
+				C3F35609305789530048A4D4 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = C3F355D6305789520048A4D4 /* Project object */;
+}

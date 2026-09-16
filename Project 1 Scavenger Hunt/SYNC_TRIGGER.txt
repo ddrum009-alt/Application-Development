@@ -1,7 +1,0 @@
-//
-//  SYNC_TRIGGER.txt
-//  Project 1 Scavenger Hunt
-//
-//  Created by user301984 on 9/15/26.
-//
-

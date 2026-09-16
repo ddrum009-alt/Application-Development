@@ -13,3 +13,4 @@ struct CompletedScreen: View {
     }
 }
 
+//force sync
